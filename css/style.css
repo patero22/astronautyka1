@@ -46,7 +46,7 @@ font-size: 400%;
 {
     position: relative;
     height: 772px;
-    background-image: url("file:///C:/Users/studentwftims.LAB/Desktop/html/images/landing.gif");
+    background-image: url("../images/landing.gif");
     background-size: cover;
     background-position: 0 50%;
     background-repeat: no-repeat;
@@ -200,7 +200,7 @@ font-size: 100%;
 .p{
     width: 600px;
     height: 380px;
-    background-image: url("file:///C:/Users/studentwftims.LAB/Desktop/html/images/landing.gif");
+    background-image: url("../images/landing.gif");
 }
 .pudlo-male1{
     display: inline-block;
@@ -232,7 +232,7 @@ font-size: 100%;
     margin: 2px 2px 2px 2px;
     text-align:  right;
     box-align: right;
-    background-image: url("file:///C:/Users/studentwftims.LAB/Desktop/html/images/img2.jpg");
+    background-image: url("../images/img2.jpg");
 }
 .pudlo-lista
 {
